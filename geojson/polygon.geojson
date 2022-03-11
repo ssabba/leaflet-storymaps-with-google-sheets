@@ -35,28 +35,6 @@
           ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.28857421875,
-          39.04478604850143
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.640625,
-          38.151837403006766
-        ]
-      }
     }
   ]
 }
