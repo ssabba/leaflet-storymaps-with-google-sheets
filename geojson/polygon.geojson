@@ -4,9 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#802323",
-        "marker-size": "medium",
-        "marker-symbol": "circle-stroked"        
+     
       },
       "geometry": {
         "type": "Point",
